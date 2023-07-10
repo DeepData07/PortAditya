@@ -11,12 +11,12 @@ skills:
   - OOPs and DSA
   - Applied Statistics
   - Parameter Estimation
-  - Pattern Etraction
+  - Pattern Extraction
   - MySql
   - Full Stack Web Dev. (Learning and Growing)
 ---
 
-Hello! I am currently pursuing my **M.E**. in software engineering at, [Thapar Institute of Engineering & Technology, Patiala](https://www.thapar.edu/) set to be completed in 2023 with [8.26 as current CGPA](https://drive.google.com/file/d/1CdUCD6TicdUOH_bPohRPs3fW6vvFbZX4/view?usp=sharing). And as of Bachelor's, my **B.Tech** was from [DIT Univeristy](https://www.dituniversity.edu.in/) with [6.61 CGPA](https://drive.google.com/file/d/1DO_4gpgRbTH9Iqvy-cW3ySH8KM1zZ5gA/view?usp=sharing)
+Hello! I am currently pursuing my **M.E**. in software engineering at, [Thapar Institute of Engineering & Technology, Patiala](https://www.thapar.edu/) set to be completed in 2023 with [8.26 as my current CGPA](https://drive.google.com/file/d/1CdUCD6TicdUOH_bPohRPs3fW6vvFbZX4/view?usp=sharing). And as of Bachelor's, my **B.Tech** was from [DIT Univeristy](https://www.dituniversity.edu.in/) with [6.61 CGPA](https://drive.google.com/file/d/1DO_4gpgRbTH9Iqvy-cW3ySH8KM1zZ5gA/view?usp=sharing)
 
 I have a strong passion for Machine Learning, Data Science, and Java, with substantial project experience in these areas and a continuous drive to enhance my Web Development skills. 
 

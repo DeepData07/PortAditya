@@ -9,4 +9,4 @@ I'm an Indian ML/DS software developer with powerful Java skills, driven by goal
 
 Last worked as a Software Developer Intern at [Bosch Global Software Technologies Private Limited (BGSW)](https://www.bosch-softwaretechnologies.com/en/) there I worked on [NRC's for Mercedes and JLR](https://www.bosch-mobility.com/en/solutions/camera/near-range-camera/).
 
-Outside work, I enjoy playing badminton and footbal. Off-screen, I sketch my thoughts [here](https://in.pinterest.com/singh28aditya/leisure/)!
+Outside work, I enjoy playing badminton and football. Off-screen, I sketch my thoughts [here](https://in.pinterest.com/singh28aditya/leisure/)!

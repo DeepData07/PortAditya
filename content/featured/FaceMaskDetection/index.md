@@ -1,6 +1,6 @@
 ---
 date: '3'
-title: 'Improving NLP model of an Exisiting Research Paper'
+title: 'Improving NLP Model of an Existing Research Paper'
 cover: 'face-mask.png' 
 github: 'https://github.com/DeepData07/MLB'
 
